@@ -4,13 +4,12 @@
 int main(void)
 {
 	char debut = 'a';
-	
-	for( debut = 'a'; debut <= 'z'; debut++)
+	for (debut = 'a'; debut <= 'z'; debut++)
 	{
 		putchar(debut);
 	}
 	putchar( '\n' );
-	return(0);
+	return (0);
 }
 
 
