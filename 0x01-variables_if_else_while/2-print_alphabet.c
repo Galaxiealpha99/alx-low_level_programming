@@ -8,6 +8,7 @@ int main()
 	for(debut = 'a' ; debut <= 'z' ; debut++)
 	{
 		putchar(debut);
+		putchar('\n');
 	}
 	return(0);
 }
