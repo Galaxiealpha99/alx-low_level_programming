@@ -2,11 +2,9 @@
 #include <stdlib.h>
 
 /**
- * main - Check alphabet.
- * @void: Null value
+ * main - prints the alphabet in lowercase.
  *
- * Description: prints the alphabet in lowercase, followed by a  new line.
- * Return;Zero value
+ * Return: 0 on success
  */
 
 int main(void)
