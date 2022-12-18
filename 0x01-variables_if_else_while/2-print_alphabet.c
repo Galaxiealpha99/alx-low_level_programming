@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * main - Check alphabet.
+ * @void: Null value
+ *
+ * Description: prints the alphabet in lowercase, followed by a  new line.
+ * Return;Zero value
+ */
+
 int main(void)
 {
 	char debut = 'a';
