@@ -4,6 +4,7 @@
 int main(void)
 {
 	char debut = 'a';
+
 	for (debut = 'a'; debut <= 'z'; debut++)
 	{
 		putchar(debut);
