@@ -11,6 +11,7 @@ int main(void)
 {
 	char debut = '0';
 	char c = 'a';
+
 	for (debut = '0'; debut <= '9'; debut++)
 	{
 		putchar(debut);
