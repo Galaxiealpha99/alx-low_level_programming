@@ -10,6 +10,7 @@
 int main(void)
 {
 	char debut = 'z';
+
 	for (debut = 'z'; debut >= 'a'; debut--)
 	{
 		putchar(debut);
