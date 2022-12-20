@@ -10,8 +10,6 @@
 int main(void)
 {
 	int debut = 0;
-	char vir = ',';
-	char esp = ' ';
 
 	for (debut = 0; debut <= 9; debut++)
 	{
@@ -19,8 +17,8 @@ int main(void)
 
 		if (debut < 9)
 		{
-			putchar(vir);
-			putchar(esp);
+			putchar(',');
+			putchar(' ');
 		}
 	}
 
