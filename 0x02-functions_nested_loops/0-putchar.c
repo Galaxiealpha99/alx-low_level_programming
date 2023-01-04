@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * main -print -putchar
+ * Is s written by gael
+ * Return : 0
+ */
+
 int main(void)
 {
 
