@@ -2,7 +2,6 @@
 #define main_h
 
 
-lphabet(void);
 void jack_bauer(void);
 void print_alphabet_x10(void);
 void times_table();
